@@ -32,7 +32,7 @@ Social Media Handle : **G1Joshi**.
 
 ![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
 ![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
-
+![](https://komarev.com/ghpvc/?username=G1Joshi&color=green)
 [linkedin]: https://www.linkedin.com/in/G1Joshi
 [twitter]: https://www.twitter.com/G1JoC
 [instagram]: https://www.instagram.com/G1Joshi
