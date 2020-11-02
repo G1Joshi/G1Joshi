@@ -1,32 +1,55 @@
-## Hi there, I am [_Jeevan Joshi_][linkedin] 👋🏻
-
-![Hello World](https://drive.google.com/uc?export=view&id=1S3_UfDj6gqPCmzNd0enGJYQfq_zaM_nK)
+## Hey, there!
+I am 🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸 👋🏻
 
 ---
 
-Pursuing Master of Computer Applications (**MCA**) from Pantnagar University.
-Computer Science Graduate With Mathematics (**BSc**) from Kumaun University.
-KeVian, Student, **Coder**.
-**Competitive Programming Enthusiast**.
-**C/C++ | Data Structures | Algorithms**.
-Currently working on **Full Stack Development**.
-**Campus Ambassador**.
-Participants of **Maths Olympiad** & **Social Science Exhibition**.
-**NSS Volunteer**.
-District Level **Chess Player**.
+Pursuing Master of Computer Applications (**MCA**) from Pantnagar University.<br>
+Computer Science Graduate With Mathematics (**BSc**) from Kumaun University.<br>
+KeVian, Student, **Coder**.<br>
+**Competitive Programming Enthusiast**.<br>
+**Open source Contributor**.<br>
+**C/C++ | Data Structures | Algorithms**.<br>
+Currently working on **Full Stack Development**.<br>
+**Campus Ambassador**.<br>
+Participants of **Maths Olympiad** & **Social Science Exhibition**.<br>
+**NSS Volunteer**.<br>
+District Level **Chess Player**.<br>
 Social Media Handle : **G1Joshi**.
 
-- 🔭 I’m currently working on **Competitive Programmming**.
-- 🌱 I’m currently learning **Python, Data Structures and Algorithms**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development**.
-- 💬 Ask me about **Programming**.
-- ⚡ Fun fact: I Loves To Play **[Chess][chess]**.
+<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png?token=AMSV3ZGGHPJOYE5636VIAUS7VFSAK" alt="Octocat" width="200" height="200">
+
+- 🔭 I’m currently working on **Competitive Programmming** & **Open Source**.
+- ✍️ I'm skilled in **Programming**, **Data Structures** & **Algorithms**.
+- 🌱 I’m currently learning **Python** & **JavaScript**.
+- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Flutter**.
+- 💬 Ask me about **Problem Solving**.
+- ⚡ Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.
 
 ---
 
-### Connect with me @
-| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
-| - | - | - | - |
+### Programming Languages I work upon!
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+
+### Technologies I work upon!
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
 
 ---
 
@@ -34,10 +57,33 @@ Social Media Handle : **G1Joshi**.
 
 ![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=G1Joshi&color=green)
+---
 
-[linkedin]: https://www.linkedin.com/in/G1Joshi
-[twitter]: https://www.twitter.com/G1JoC
-[instagram]: https://www.instagram.com/G1Joshi
-[facebook]: https://www.facebook.com/G1JoC
-[chess]: https://www.chess.com/member/G1Joshi
+### Connect with me @
+
+<a href="https://github.com/G1Joshi">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=G1Joshi&color=black&link=https://github.com/G1Joshi" alt="GitHub" />
+</a>
+
+<a href="https://linkedin.com/in/G1Joshi">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=G1Joshi&color=blue&link=https://linkedin.com/in/G1Joshi" alt="LinkedIn" />
+</a>
+
+<a href="https://instagram.com/G1Joshi">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=instagram&labelColor=silver&logo=instagram&logoColor=red&message=G1Joshi&color=red&link=https://instagram.com/G1Joshi" alt="Instagram" />
+</a>
+
+<a href="https://twitter.com/G1Joc">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=G1JoC&color=blue&link=https://twitter.com/G1JoC" alt="Twitter" />
+</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=G1Joshi&color=green)
+![](https://profile-counter.glitch.me/G1Joshi/count.svg)
+
+---
+
+<div align="center">
+  <\> with ❤️ by G1
+  </div>
