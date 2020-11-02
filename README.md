@@ -29,27 +29,23 @@ Social Media Handle : **G1Joshi**.
 
 ### Programming Languages I work upon!
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+<div align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+</div>
 
 ### Technologies I work upon!
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<div align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+</div>
 
 ---
 
@@ -61,21 +57,20 @@ Social Media Handle : **G1Joshi**.
 
 ### Connect with me @
 
-<a href="https://github.com/G1Joshi">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=G1Joshi&color=black&link=https://github.com/G1Joshi" alt="GitHub" />
-</a>
-
-<a href="https://linkedin.com/in/G1Joshi">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=G1Joshi&color=blue&link=https://linkedin.com/in/G1Joshi" alt="LinkedIn" />
-</a>
-
-<a href="https://instagram.com/G1Joshi">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=instagram&labelColor=silver&logo=instagram&logoColor=red&message=G1Joshi&color=red&link=https://instagram.com/G1Joshi" alt="Instagram" />
-</a>
-
-<a href="https://twitter.com/G1Joc">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=G1JoC&color=blue&link=https://twitter.com/G1JoC" alt="Twitter" />
-</a>
+<div align="center">
+  <a href="https://github.com/G1Joshi">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=G1Joshi&color=black&link=https://github.com/G1Joshi" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/G1Joshi">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=G1Joshi&color=blue&link=https://linkedin.com/in/G1Joshi" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/G1Joshi">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=instagram&labelColor=silver&logo=instagram&logoColor=red&message=G1Joshi&color=red&link=https://instagram.com/G1Joshi" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/G1Joc">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=G1JoC&color=blue&link=https://twitter.com/G1JoC" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
