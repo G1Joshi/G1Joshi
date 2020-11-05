@@ -49,9 +49,13 @@ Social Media Handle : **G1Joshi**.
 
 ---
 
-![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
+<center>
 
-![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
+![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true) 
+
+![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true) 
+
+</center>
 
 ---
 
