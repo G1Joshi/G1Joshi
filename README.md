@@ -1,5 +1,5 @@
-## Hey, there!
-I am 🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸 👋🏻
+## Hey, there!👋🏻
+I am ![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif?token=AMSV3ZG72MTFZCCJZAW7T4C7WTU5G)
 
 ---
 
