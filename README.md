@@ -1,5 +1,5 @@
 ## Hey, there!👋🏻
-I am ![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif?token=AMSV3ZG72MTFZCCJZAW7T4C7WTU5G)
+I am ![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif)
 
 ---
 
@@ -16,7 +16,7 @@ Participants of **Maths Olympiad** & **Social Science Exhibition**.<br>
 District Level **Chess Player**.<br>
 Social Media Handle : **G1Joshi**.
 
-<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png?token=AMSV3ZGGHPJOYE5636VIAUS7VFSAK" alt="Octocat" width="200" height="200">
+<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="200" height="200">
 
 - 🔭 I’m currently working on **Competitive Programmming** & **Open Source**.
 - ✍️ I'm skilled in **Programming**, **Data Structures** & **Algorithms**.
