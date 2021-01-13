@@ -32,40 +32,6 @@ Social Media Handle : **G1Joshi**.
 
 ---
 
-### Programming Languages I work upon!
-
-<div align="center">
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-
-</div>
-
-### Technologies I work upon!
-
-<div align="center">
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-
-</div>
-
----
-
 <div align="center">
 
   ![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
