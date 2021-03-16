@@ -74,6 +74,6 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-  <\> with ❤️ by G1
+  ></> with ❤️ by G1
 
-  </div>
+</div>
