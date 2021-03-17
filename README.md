@@ -26,7 +26,7 @@ Social Media Handle : **G1Joshi**.
 - 🔭 I’m currently working on **Competitive Programmming** & **Open Source**.
 - ✍️ I'm skilled in **Programming**, **Data Structures** & **Algorithms**.
 - 🌱 I’m currently learning **Python** & **JavaScript**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Flutter**.
+- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Mobile Development**.
 - 💬 Ask me about **Problem Solving**.
 - ⚡ Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.
 
