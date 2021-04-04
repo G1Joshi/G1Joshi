@@ -26,43 +26,9 @@ Social Media Handle : **G1Joshi**.
 - 🔭 I’m currently working on **Competitive Programmming** & **Open Source**.
 - ✍️ I'm skilled in **Programming**, **Data Structures** & **Algorithms**.
 - 🌱 I’m currently learning **Python** & **JavaScript**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Flutter**.
+- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Mobile Development**.
 - 💬 Ask me about **Problem Solving**.
 - ⚡ Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.
-
----
-
-### Programming Languages I work upon!
-
-<div align="center">
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-
-</div>
-
-### Technologies I work upon!
-
-<div align="center">
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-
-</div>
 
 ---
 
@@ -108,11 +74,12 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-  <\> with ❤️ by G1
+  ></> with 🤍 by G1
 
-  </div>
+</div>
   
 ---
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
