@@ -77,3 +77,9 @@ Social Media Handle : **G1Joshi**.
   ></> with 🤍 by G1
 
 </div>
+  
+---
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
