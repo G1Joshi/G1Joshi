@@ -1,8 +1,10 @@
 ## Hey, there!👋🏻
+
 I am
+
 <div align="center">
 
-  ![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif)
+![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif)
 
 </div>
 
@@ -13,7 +15,8 @@ Computer Science Graduate With Mathematics (**BSc**) from Kumaun University.<br>
 KeVian, Student, **Coder**.<br>
 **Competitive Programming Enthusiast**.<br>
 **Open source Contributor**.<br>
-**C/C++ | Data Structures | Algorithms**.<br>
+**Software Application Developer**.<br>
+**Programming | Data Structures | Algorithms**.<br>
 Currently working on **Full Stack Development**.<br>
 **Campus Ambassador**.<br>
 Participants of **Maths Olympiad** & **Social Science Exhibition**.<br>
@@ -34,9 +37,11 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-  ![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
+![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=G1Joshi&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
-  ![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=G1Joshi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula)
 
 </div>
 
@@ -68,18 +73,12 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-  ![](https://profile-counter.glitch.me/G1Joshi/count.svg)
+![](https://profile-counter.glitch.me/G1Joshi/count.svg)
 
 </div>
 
 <div align="center">
 
-  ></> with 🤍 by G1
+> </> with 🤍 by G1
 
 </div>
-  
----
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
