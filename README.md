@@ -4,7 +4,7 @@ I am
 
 <div align="center">
 
-![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/JeevanJoshi.gif)
+![🅹🅴🅴🆅🅰🅽  🅹🅾🆂🅷🅸](https://raw.githubusercontent.com/G1Joshi/Assets/main/Name/JeevanJoshi2.gif)
 
 </div>
 
