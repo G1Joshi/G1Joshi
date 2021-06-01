@@ -1,6 +1,4 @@
-## Hey, there!👋🏻
-
-I am
+## Hey, there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" alt="Octocat" width="25" height="25"> I am
 
 <div align="center">
 
@@ -44,7 +42,7 @@ Social Media Handle : **G1Joshi**.
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula)
 
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
-  
+
 </div>
 
 ---
