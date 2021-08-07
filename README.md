@@ -35,15 +35,17 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=G1Joshi&langs_count=10&hide_border=true&layout=compact&theme=dracula)
+![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=G1Joshi&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=G1Joshi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=G1Joshi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=G1Joshi&hide_border=true&theme=dracula)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=G1Joshi&theme=dracula&column=4&no-frame=true)
 
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
+![Activity](https://activity-graph.herokuapp.com/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
 
 </div>
 
