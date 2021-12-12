@@ -8,28 +8,24 @@
 
 ---
 
-Pursuing Master of Computer Applications (**MCA**) from Pantnagar University.<br>
-Computer Science Graduate With Mathematics (**BSc**) from Kumaun University.<br>
-KeVian, Student, **Coder**.<br>
-**Competitive Programming Enthusiast**.<br>
-**Open source Contributor**.<br>
-**Software Application Developer**.<br>
-**Programming | Data Structures | Algorithms**.<br>
-Currently working on **Full Stack Development**.<br>
-**Campus Ambassador**.<br>
-Participants of **Maths Olympiad** & **Social Science Exhibition**.<br>
-**NSS Volunteer**.<br>
-District Level **Chess Player**.<br>
-Social Media Handle : **G1Joshi**.
+Pursuing Master of Computer Applications (MCA) from Pantnagar University.<br>
+Computer Science Graduate With Mathematics (BSc) from Kumaun University.<br>
+A Kendriya Vidyalaya Student.<br>
+Competitive Programming Enthusiast.<br>
+Open Source Contributor.<br>
+Cross-Platform Applications Developer (Android/iOS/Web/Desktop).<br>
+GitLab Certified Associate.<br>
+Postman Student Expert.<br>
+Software Engineer Intern.<br>
 
 <img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="200" height="200">
 
-- 🔭 I’m currently working on **Competitive Programmming** & **Open Source**.
-- ✍️ I'm skilled in **Programming**, **Data Structures** & **Algorithms**.
-- 🌱 I’m currently learning **Python** & **JavaScript**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development** & **Mobile Development**.
-- 💬 Ask me about **Problem Solving**.
-- ⚡ Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.
+- 🔭 <samp>I’m currently working on **Competitive Programmming** & **Open Source**.</samp>
+- ✍️ <samp>I'm skilled in **Programming**, **Data Structures** & **Algorithms**.</samp>
+- 🌱 <samp>I’m currently learning **Python** & **JavaScript**.</samp>
+- 👯 <samp>I’m looking to collaborate on Different Project of **Web** & **Mobile** Development.</samp>
+- 💬 <samp>Ask me about **Problem Solving**.</samp>
+- ⚡ <samp>Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.</samp>
 
 ---
 
@@ -77,7 +73,7 @@ Social Media Handle : **G1Joshi**.
 
 <div align="center">
 
-![](https://profile-counter.glitch.me/G1Joshi/count.svg)
+![Counter](https://profile-counter.glitch.me/G1Joshi/count.svg)
 
 </div>
 
