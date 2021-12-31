@@ -47,6 +47,33 @@ Software Engineer Intern.<br>
 
 ---
 
+<div align="center">
+
+<details>
+  <summary>📈 2021 Contributions</summary><br>
+  
+![2021](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2021.png)
+
+</details>
+
+<details>
+  <summary>📈 2020 Contributions</summary><br>
+  
+![2020](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2020.png)
+
+</details>
+
+<details>
+  <summary>📈 2019 Contributions</summary><br>
+
+![2019](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2019.png)
+
+</details>
+
+</div>
+
+---
+
 ### Connect with me @
 
 <div align="center">
