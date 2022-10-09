@@ -100,6 +100,14 @@ Software Engineer Intern.<br>
 
 <div align="center">
 
+[![@g1joshi's Holopin board](https://holopin.io/api/user/board?user=g1joshi)](https://holopin.io/@g1joshi)
+
+</div>
+
+---
+
+<div align="center">
+
 ![Counter](https://profile-counter.glitch.me/G1Joshi/count.svg)
 
 </div>
