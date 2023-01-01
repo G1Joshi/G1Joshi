@@ -10,6 +10,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="200" height="200">
 
+- 🧑🏻‍💻 <samp>I’m a **Software Engineer** with expertise in **Mobile Development**.</samp>
 - 🔭 <samp>I’m currently working on **Application Development** & **Open Source**.</samp>
 - ✍️ <samp>I'm skilled in **Programming**, **Data Structures** & **Algorithms**.</samp>
 - 🌱 <samp>I’m currently learning **Flutter** & **SwiftUI**.</samp>
