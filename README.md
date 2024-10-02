@@ -1,4 +1,4 @@
-## Hey, there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" alt="Octocat" width="25" height="25"> I am
+## Hey there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" alt="Waving hand" width="30" height="30"> I am
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="200" height="200">
+<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="300" height="300">
 
-- 🧑🏻‍💻 <samp>I’m a **Software Engineer** with expertise in **Mobile Development**.</samp>
-- 🔭 <samp>I’m currently working on **Application Development** & **Open Source**.</samp>
-- ✍️ <samp>I'm skilled in **Programming**, **Data Structures** & **Algorithms**.</samp>
-- 🌱 <samp>I’m currently learning **Flutter** & **SwiftUI**.</samp>
-- 👯 <samp>I’m looking to collaborate on Different Project of **Web** & **Mobile** Development.</samp>
-- 💬 <samp>Ask me about **Problem Solving**.</samp>
-- ⚡ <samp>Fun fact: I Loves To Play **[Chess](https://www.chess.com/member/G1Joshi)**.</samp>
+- 🧑🏻‍💻 <samp>Experienced **Software Engineer** specializing in **Mobile Development** and **Full-Stack Solutions**.</samp>
+- 🔭 <samp>Currently focused on **Application Development**, **Open Source Contributions**, and **Design System**.</samp>
+- 🌱 <samp>Expanding expertise in **Flutter**, **SwiftUI**, and **Kotlin Multiplatform**.</samp>
+- 👯 <samp>Seeking collaborations on innovative **Web**, **Mobile**, and **Cross-Platform** development projects.</samp>
+- 💡 <samp>Passionate about **Problem Solving**, **Code Optimization**, and **User Experience Design**.</samp>
+- 🚀 <samp>Committed to continuous learning and staying updated with emerging technologies.</samp>
+- ⚡ <samp>Fun fact: Avid **[Chess](https://www.chess.com/member/G1Joshi)** player, applying strategic thinking both on and off the board.</samp>
 
 ---
 
@@ -38,7 +38,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=G1Joshi&theme=dracula&column=4&no-frame=true)
 
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
 
 ![Metrics](https://metrics.lecoq.io/G1Joshi)
 
@@ -47,6 +47,27 @@
 ---
 
 <div align="center">
+
+<details>
+  <summary>📈 2024 Contributions</summary><br>
+  
+![2024](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2024.png)
+
+</details>
+
+<details>
+  <summary>📈 2023 Contributions</summary><br>
+  
+![2023](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2023.png)
+
+</details>
+
+<details>
+  <summary>📈 2022 Contributions</summary><br>
+  
+![2022](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2022.png)
+
+</details>
 
 <details>
   <summary>📈 2021 Contributions</summary><br>
@@ -81,12 +102,21 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=G1Joshi&color=black&link=https://github.com/G1Joshi)](https://github.com/G1Joshi)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=G1Joshi&color=blue&link=https://linkedin.com/in/G1Joshi)](https://linkedin.com/in/G1Joshi)
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=G1Joshii&color=blue&link=https://twitter.com/G1Joshii)](https://twitter.com/G1Joshii)
-[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&label=Facebook&labelColor=silver&logo=facebook&logoColor=blue&message=G1Joshii&color=blue&link=https://facebook.com/G1Joshii)](https://facebook.com/G1Joshii)
-[![Reddit](https://img.shields.io/static/v1?style=for-the-badge&label=Reddit&labelColor=silver&logo=reddit&logoColor=orange&message=G1Joshi&color=orange&link=https://reddit.com/u/G1Joshi)](https://reddit.com/u/G1Joshi)
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&label=instagram&labelColor=silver&logo=instagram&logoColor=red&message=G1Joshi&color=red&link=https://instagram.com/G1Joshi)](https://instagram.com/G1Joshi)
+[![GitHub](https://img.shields.io/badge/GitHub-G1Joshi-181717?style=for-the-badge&logo=github)](https://github.com/G1Joshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-G1Joshi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/G1Joshi)
+[![Twitter](https://img.shields.io/badge/Twitter-G1Joshii-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/G1Joshii)
+[![Facebook](https://img.shields.io/badge/Facebook-G1Joshii-4267B2?style=for-the-badge&logo=facebook)](https://facebook.com/G1Joshii)
+[![Reddit](https://img.shields.io/badge/Reddit-G1Joshi-FF4500?style=for-the-badge&logo=reddit)](https://reddit.com/u/G1Joshi)
+[![Instagram](https://img.shields.io/badge/Instagram-G1Joshi-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/G1Joshi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-G1Joshi-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12047894/g1joshi)
+[![Medium](https://img.shields.io/badge/Medium-G1Joshi-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@G1Joshi)
+[![Dev.to](https://img.shields.io/badge/dev.to-G1Joshi-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/g1joshi)
+[![Hashnode](https://img.shields.io/badge/Hashnode-G1Joshi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@G1Joshi)
+[![YouTube](https://img.shields.io/badge/YouTube-G1Joshi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@G1Joshi)
+[![Twitch](https://img.shields.io/badge/Twitch-G1Joshi-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/G1Joshi)
+[![Discord](https://img.shields.io/badge/Discord-G1Joshi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/G1Joshi)
+[![Telegram](https://img.shields.io/badge/Telegram-G1Joshi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/G1Joshi)
+[![CodePen](https://img.shields.io/badge/CodePen-G1Joshi-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/G1Joshi)
 
 </div>
 
@@ -104,13 +134,15 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -141,6 +173,8 @@
 
 <div align="center">
 
+<a href="https://app.daily.dev/g1joshi"><img src="https://api.daily.dev/devcards/v2/GD3LXM6H3gXhvGni84Tpr.png?type=wide&r=b5n" width="652" alt="Jeevan Joshi's Dev Card"/></a>
+
 [![@g1joshi's Holopin board](https://holopin.io/api/user/board?user=g1joshi)](https://holopin.io/@g1joshi)
 
 </div>
@@ -148,6 +182,8 @@
 ---
 
 <div align="center">
+
+![Stats](https://widgetbite.com/stats/G1Joshi)
 
 ![Counter](https://profile-counter.glitch.me/G1Joshi/count.svg)
 
