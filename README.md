@@ -1,3 +1,9 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=true)
+
+</div>
+
 ## Hey there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" alt="Waving hand" width="25" height="25"> I am
 
 <div align="center">
@@ -8,8 +14,6 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="250" height="250">
-
 - 🧑🏻‍💻 <samp>Experienced **Software Engineer** specializing in **Mobile Development** and **Full-Stack Solutions**.</samp>
 - 🔭 <samp>Currently focused on **Application Development**, **Design System** and **Open Source Contributions**,.</samp>
 - 🌱 <samp>Expanding expertise in **Flutter**, **SwiftUI**, and **Kotlin Multiplatform**.</samp>
@@ -19,6 +23,10 @@
 - ⚡ <samp>Fun fact: Avid **[Chess](https://www.chess.com/member/G1Joshi)** player, applying strategic thinking both on and off the board.</samp>
 
 ---
+
+|                                                                                                                      |                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" alt="Octocat" width="300" height="300"> | ![Jokes](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true) <br> ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) |
 
 <div align="center">
 
@@ -34,11 +42,15 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=G1Joshi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
 
+![Contribution](https://github-contributor-stats.vercel.app/api?username=G1Joshi&combine_all_yearly_contributions=true&hide_contributor_rank=true&limit=10&hide_border=true&theme=dracula)
+
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula)
 
 ![Streak](https://streak-stats.demolab.com/?user=G1Joshi&hide_border=true&theme=dracula)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=G1Joshi&theme=dracula&column=5&no-frame=true)
+
+![Graph](https://stats.hyochan.dev/api/github-stats?login=G1Joshi)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
 
@@ -106,11 +118,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-G1Joshi-181717?style=for-the-badge&logo=github)](https://github.com/G1Joshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-G1Joshi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/G1Joshi)
-[![Twitter](https://img.shields.io/badge/Twitter-G1Joshii-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/G1Joshii)
+[![Twitter](https://img.shields.io/badge/Twitter-G1Joshii-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/G1Joshii)
 [![Reddit](https://img.shields.io/badge/Reddit-G1Joshi-FF4500?style=for-the-badge&logo=reddit)](https://reddit.com/u/G1Joshi)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-G1Joshi-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12047894/g1joshi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-G1Joshi-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12047894/G1Joshi)
 [![Medium](https://img.shields.io/badge/Medium-G1Joshi-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@G1Joshi)
-[![Dev.to](https://img.shields.io/badge/dev.to-G1Joshi-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/g1joshi)
+[![Dev.to](https://img.shields.io/badge/dev.to-G1Joshi-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/G1Joshi)
 [![Hashnode](https://img.shields.io/badge/Hashnode-G1Joshi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@G1Joshi)
 [![Twitch](https://img.shields.io/badge/Twitch-G1Joshi-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/G1Joshi)
 [![Discord](https://img.shields.io/badge/Discord-G1Joshi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/G1Joshi)
@@ -181,13 +193,18 @@
 
 ![Road Map](https://roadmap.sh/card/wide/66d46a95553501e3c37c0b9f)
 
-![Holopin Board](https://holopin.io/api/user/board?user=g1joshi)
+![Holopin Board](https://holopin.io/api/user/board?user=G1Joshi)
 
 </div>
 
 ---
 
 <div align="center">
+
+![Followers](https://custom-icon-badges.herokuapp.com/github/followers/G1Joshi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
+![Stars](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/G1Joshi)
+
+![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12047894&layout=compact)
 
 ![Stats](https://widgetbite.com/stats/G1Joshi)
 
@@ -197,6 +214,6 @@
 
 <div align="center">
 
-> </> with 🤍 by G1
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&text={Code}%20with%20🤍%20by%20G1&fontAlign=50&fontAlignY=70&animation=twinkling)
 
 </div>
