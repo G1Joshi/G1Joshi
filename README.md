@@ -16,8 +16,19 @@
 
 ---
 
+| | |
+|:---:|:---:|
 | ![Octocat](https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png) | ![Jokes](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true)<br>![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) |
-| :---------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+---
+
+# Badges 🏆
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| [![GitHub](https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/dd914f6b-eb8a-422b-917c-9e49205d5994)<br>GitHub Foundations<br>Awarded To: **Jeevan Joshi** | [![GitLab Associate](https://media.badgr.com/assertion-ff7aeaeee63e426087e993b1514768db.png)](https://api.badgr.io/public/assertions/e5WNn3OLSXWJHKNSbqLGOw)<br>GitLab Certified Associate<br>Awarded To: **Jeevan Joshi** | [![Git Associate](https://images.credly.com/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png)](https://www.credly.com/badges/94ed99a3-e105-484b-869e-d4ed0be1a07a)<br>GitLab Certified Git Associate<br>Awarded To: **Jeevan Joshi** | [![Postman](https://media.badgr.com/assertion-f9a8f829f1b1eb5f928c3f41d5dfafaf.png)](https://api.badgr.io/public/assertions/qijIpN7mT8Kg04wabtdOhg)<br>Postman API Fundamentals Expert<br>Awarded To: **Jeevan Joshi** |
+
+---
 
 # Stats 🚀
 
