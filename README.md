@@ -2,78 +2,110 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=true">
 </div>
 
-<h2>Hey there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" width="25" height="25"> I am</h2>
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Name/JeevanJoshi.gif">
+    <h1>
+        <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" width="35" height="35">
+        Hey there! I'm
+    </h1>
+    <p>
+        <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Name/JeevanJoshi.gif" alt="Jeevan Joshi">
+    </p>
+    <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%7C+Mobile+Developer;Building+Beautiful+Cross-Platform+Experiences;Flutter+%E2%9D%A4%EF%B8%8F+SwiftUI+%E2%9D%A4%EF%B8%8F+Kotlin+Multiplatform" alt="Typing SVG">
+    </p>
 </div>
 
-<hr>
+<div class="spacer" style="height:10px;"></div>
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<ul>
-    <li>🧑🏻‍💻 <samp>Experienced <strong>Software Engineer</strong> specializing in <strong>Mobile Development</strong> and <strong>Full-Stack Solutions</strong>.</samp></li>
-    <li>🔭 <samp>Currently focused on <strong>Application Development</strong>, <strong>Design System</strong> and <strong>Open Source Contributions</strong>.</samp></li>
-    <li>🌱 <samp>Expanding expertise in <strong>Flutter</strong>, <strong>SwiftUI</strong>, and <strong>Kotlin Multiplatform</strong>.</samp></li>
-    <li>👯 <samp>Seeking collaborations on innovative <strong>Web</strong>, <strong>Mobile</strong>, and <strong>Cross-Platform</strong> development projects.</samp></li>
-    <li>💡 <samp>Passionate about <strong>Problem Solving</strong>, <strong>Code Optimization</strong>, and <strong>User Experience Design</strong>.</samp></li>
-    <li>🚀 <samp>Committed to continuous learning and staying updated with emerging technologies.</samp></li>
-    <li>⚡ <samp>Fun fact: Avid <strong><a href="https://www.chess.com/member/G1Joshi">Chess</a></strong> player, applying strategic thinking both on and off the board.</samp></li>
-</ul>
+<div align="center">
+    <h3>🚀 About Me</h3>
+</div>
 
-<hr>
-
-<table>
+<table align="center">
     <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" width="300" height="300">
+        <td width="50%" valign="top">
+            <h4>💼 Professional</h4>
+            <ul>
+                <li>🧑🏻‍💻 <strong>Experienced Software Engineer</strong> specializing in <strong>Mobile Development</strong> and <strong>Full-Stack Solutions</strong></li>
+                <li>🔭 Currently focused on <strong>Application Development</strong>, <strong>Design Systems</strong>, and <strong>Open Source</strong></li>
+                <li>🌱 Expanding expertise in <strong>Flutter</strong>, <strong>SwiftUI</strong>, and <strong>Kotlin Multiplatform</strong></li>
+                <li>💡 Passionate about <strong>Problem Solving</strong>, <strong>Code Optimization</strong>, and <strong>UX Design</strong></li>
+            </ul>
         </td>
-        <td align="center">
-            <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true"><br>
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
+        <td width="50%" valign="top">
+            <h4>🎯 Personal</h4>
+            <ul>
+                <li>👯 Seeking collaborations on innovative <strong>Web</strong>, <strong>Mobile</strong>, and <strong>Cross-Platform</strong> projects</li>
+                <li>🚀 Committed to continuous learning and emerging technologies</li>
+                <li>⚡ Fun fact: Avid <strong><a href="https://www.chess.com/member/G1Joshi">Chess Player</a></strong> - applying strategic thinking both on and off the board</li>
+                <li>🎨 Love crafting pixel-perfect user interfaces</li>
+            </ul>
         </td>
     </tr>
 </table>
 
-<hr>
+<br>
 
-<div align="center">
-    <h1>Badges 🏆</h1>
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<table>
+<div align="center">
+    <h3>😄 Daily Dose of Fun</h3>
+    <table>
+        <tr>
+            <td align="center" width="50%">
+                <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/octocat.png" width="280" height="280">
+                <br>
+                <sub><b>My GitHub Octocat</b></sub>
+            </td>
+            <td align="center" width="50%">
+                <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder=true&borderRadius=10"><br><br>
+                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&borderRadius=10">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+    <h2>🏆 Certifications & Badges</h2>
+    <p><i>Continuous learning is the key to staying ahead</i></p>
+</div>
+<table align="center">
     <tr>
         <td align="center">
             <blockquote>
-                <a href="https://www.credly.com/badges/dd914f6b-eb8a-422b-917c-9e49205d5994">
-                    <img width="120px" height="120px" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">
-                </a>
+                <a href="https://www.credly.com/badges/dd914f6b-eb8a-422b-917c-9e49205d5994"><img width="120px" height="120px" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"></a>
                 <p>GitHub Foundations</p>
                 <p>Awarded To: <strong>Jeevan Joshi</strong></p>
             </blockquote>
         </td>
         <td align="center">
             <blockquote>
-                <a href="https://api.badgr.io/public/assertions/e5WNn3OLSXWJHKNSbqLGOw">
-                    <img width="120px" height="120px" src="https://media.badgr.com/assertion-ff7aeaeee63e426087e993b1514768db.png">
-                </a>
+                <a href="https://api.badgr.io/public/assertions/e5WNn3OLSXWJHKNSbqLGOw"><img width="120px" height="120px" src="https://media.badgr.com/assertion-ff7aeaeee63e426087e993b1514768db.png"></a>
                 <p>GitLab Certified Associate</p>
                 <p>Awarded To: <strong>Jeevan Joshi</strong></p>
             </blockquote>
         </td>
         <td align="center">
             <blockquote>
-                <a href="https://www.credly.com/badges/94ed99a3-e105-484b-869e-d4ed0be1a07a">
-                    <img width="120px" height="120px" src="https://images.credly.com/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png">
-                </a>
+                <a href="https://www.credly.com/badges/94ed99a3-e105-484b-869e-d4ed0be1a07a"><img width="120px" height="120px" src="https://images.credly.com/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png"></a>
                 <p>GitLab Certified Git Associate</p>
                 <p>Awarded To: <strong>Jeevan Joshi</strong></p>
             </blockquote>
         </td>
         <td align="center">
             <blockquote>
-                <a href="https://api.badgr.io/public/assertions/qijIpN7mT8Kg04wabtdOhg">
-                    <img width="120px" height="120px" src="https://media.badgr.com/assertion-f9a8f829f1b1eb5f928c3f41d5dfafaf.png">
-                </a>
+                <a href="https://api.badgr.io/public/assertions/qijIpN7mT8Kg04wabtdOhg"><img width="120px" height="120px" src="https://media.badgr.com/assertion-f9a8f829f1b1eb5f928c3f41d5dfafaf.png"></a>
                 <p>Postman API Fundamentals Expert</p>
                 <p>Awarded To: <strong>Jeevan Joshi</strong></p>
             </blockquote>
@@ -81,11 +113,18 @@
     </tr>
 </table>
 
-<hr>
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
-    <h1>Stats 🚀</h1>
+    <h2>📊 GitHub Analytics</h2>
+    <p><i>Numbers tell stories, and here's mine</i></p>
 </div>
+
+<br>
 
 <div align="center">
     <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52780516&image_size=auto">
@@ -109,48 +148,57 @@
     <img src="https://metrics.lecoq.io/G1Joshi">
 </div>
 
-<hr>
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
+    <h2>📈 Contribution Journey</h2>
+    <p><i>Every commit tells a story of growth</i></p>
     <details>
-        <summary>📈 2024 Contributions</summary>
+        <summary><b>📅 2024 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2024.png">
     </details>
     <details>
-        <summary>📈 2023 Contributions</summary>
+        <summary><b>📅 2023 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2023.png">
     </details>
     <details>
-        <summary>📈 2022 Contributions</summary>
+        <summary><b>📅 2022 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2022.png">
     </details>
     <details>
-        <summary>📈 2021 Contributions</summary>
+        <summary><b>📅 2021 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2021.png">
     </details>
     <details>
-        <summary>📈 2020 Contributions</summary>
+        <summary><b>📅 2020 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2020.png">
     </details>
     <details>
-        <summary>📈 2019 Contributions</summary>
+        <summary><b>📅 2019 Contributions</b></summary>
         <br>
         <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2019.png">
     </details>
-
 </div>
 
-<hr>
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
-    <h1>Socials 🌐</h1>
+    <h2>🌐 Connect With Me</h2>
+    <p><i>Let's collaborate and build something amazing together!</i></p>
 </div>
-
 <div align="center">
     <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/GitHub-G1Joshi-181717?style=for-the-badge&logo=github"></a>
     <a href="https://linkedin.com/in/G1Joshi"><img src="https://img.shields.io/badge/LinkedIn-G1Joshi-0A66C2?style=for-the-badge&logo=linkedin"></a>
@@ -166,12 +214,17 @@
     <a href="https://codepen.io/G1Joshi"><img src="https://img.shields.io/badge/CodePen-G1Joshi-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
-<hr>
+<br>
 
-<div align="center">
-    <h1>Tech Stack 💻</h1>
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+    <h2>💻 Tech Stack & Tools</h2>
+    <p><i>My arsenal of technologies and tools</i></p>
+    <h3>Languages</h3>
+</div>
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -185,8 +238,23 @@
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
+
+<div align="center">
+    <h3>Frameworks & Libraries</h3>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+</div>
+
+<div align="center">
+    <h3>Tools & Platforms</h3>
+</div>
+<div align="center">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -196,12 +264,24 @@
     <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-    <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
+</div>
+
+<div align="center">
+    <h3>Databases</h3>
+</div>
+<div align="center">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+    <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
+</div>
+
+<div align="center">
+    <h3>Design & IDEs</h3>
+</div>
+<div align="center">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -212,9 +292,15 @@
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
 </div>
 
-<hr>
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
+    <h2>🎯 Showcase</h2>
+    <p><i>My developer journey in cards</i></p>
     <img src="https://api.daily.dev/devcards/v2/GD3LXM6H3gXhvGni84Tpr.png?type=wide">
     <br>
     <img src="https://roadmap.sh/card/wide/66d46a95553501e3c37c0b9f">
@@ -222,9 +308,15 @@
     <img src="https://holopin.io/api/user/board?user=G1Joshi">
 </div>
 
-<hr>
+<br>
+
+<div class="divider" align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
+    <h2>🌟 Profile Insights</h2>
+    <p><i>Thank you for visiting!</i></p>
     <img src="https://custom-icon-badges.herokuapp.com/github/followers/G1Joshi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/G1Joshi">
     <br>
@@ -234,7 +326,7 @@
     <br>
     <img src="https://profile-counter.glitch.me/G1Joshi/count.svg">
 </div>
-
+<br>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&text={Code}%20with%20🤍%20by%20G1&fontAlign=50&fontAlignY=70&animation=twinkling">
 </div>
