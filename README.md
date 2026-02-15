@@ -14,23 +14,22 @@
     </p>
     <br />
     <p>
-        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" /></a>
-        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Available%20for-Collaboration-blue?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Status-Building%20Amazing%20Things-yellow?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Open%20to-Opportunities-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1B5E20&color=00E676" /></a>
+        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Available%20for-Collaboration-2979FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D47A1&color=448AFF" /></a>
+        <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/Status-Building%20Amazing%20Things-F9A825?style=for-the-badge&logo=rocket&logoColor=black&labelColor=F57F17&color=FDD835" /></a>
     </p>
 </div>
-<div class="spacer" style="height: 10px"></div>
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
     <h3>🚀 About Me</h3>
     <p><i>"Transforming ideas into impactful digital experiences"</i></p>
     <p>
-        <img src="https://img.shields.io/badge/Experience-Growing%20Daily-ff69b4?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=C2185B&color=F06292" />
-        <img src="https://img.shields.io/badge/Code%20Quality-Excellence-success?style=for-the-badge&logo=codacy&logoColor=white&labelColor=2E7D32&color=66BB6A" />
-        <img src="https://img.shields.io/badge/Innovation-Driven-blue?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1565C0&color=42A5F5" />
-        <img src="https://img.shields.io/badge/Passion-Unlimited-orange?style=for-the-badge&logo=fire&logoColor=white&labelColor=E65100&color=FF9800" />
+        <img src="https://img.shields.io/badge/Experience-Growing%20Daily-E91E63?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=880E4F&color=E91E63" />
+        <img src="https://img.shields.io/badge/Code%20Quality-Excellence-00C853?style=for-the-badge&logo=codacy&logoColor=white&labelColor=1B5E20&color=00E676" />
+        <img src="https://img.shields.io/badge/Innovation-Driven-2979FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D47A1&color=448AFF" />
+        <img src="https://img.shields.io/badge/Passion-Unlimited-FF6D00?style=for-the-badge&logo=fire&logoColor=white&labelColor=BF360C&color=FF6D00" />
     </p>
 </div>
 <table align="center">
@@ -39,7 +38,7 @@
             <h4>💼 Professional</h4>
             <ul>
                 <li>
-                    🧑🏻‍� Experienced <strong>Software Engineer</strong> specializing in
+                    🧑🏻‍💻 Experienced <strong>Software Engineer</strong> specializing in
                     <strong>Mobile Development</strong> and
                     <strong>Full-Stack Solutions</strong>
                 </li>
@@ -238,17 +237,17 @@
     </table>
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
     <h2>🏆 Certifications & Badges</h2>
     <p><i>Continuous learning is the key to staying ahead</i></p>
     <p>
-        <img src="https://img.shields.io/badge/Certified%20Professional-4+-success?style=for-the-badge&logo=certificate&logoColor=white&labelColor=2E7D32&color=66BB6A" />
-        <img src="https://img.shields.io/badge/Learning-Never%20Stops-blue?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1565C0&color=42A5F5" />
-        <img src="https://img.shields.io/badge/Verified-Industry%20Recognized-gold?style=for-the-badge&logo=verify&logoColor=white&labelColor=F57F17&color=FDD835" />
-        <img src="https://img.shields.io/badge/Excellence-Certified-red?style=for-the-badge&logo=award&logoColor=white&labelColor=C62828&color=EF5350" />
+        <img src="https://img.shields.io/badge/Certified%20Professional-4+-00C853?style=for-the-badge&logo=certificate&logoColor=white&labelColor=1B5E20&color=00E676" />
+        <img src="https://img.shields.io/badge/Learning-Never%20Stops-2979FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D47A1&color=448AFF" />
+        <img src="https://img.shields.io/badge/Verified-Industry%20Recognized-F9A825?style=for-the-badge&logo=verify&logoColor=black&labelColor=F57F17&color=FDD835" />
+        <img src="https://img.shields.io/badge/Excellence-Certified-E91E63?style=for-the-badge&logo=award&logoColor=white&labelColor=880E4F&color=E91E63" />
     </p>
     <br />
 </div>
@@ -289,7 +288,7 @@
     </tr>
 </table>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
@@ -298,7 +297,7 @@
 </div>
 <br />
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1Joshi&theme=dracula&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=G1Joshi&hide_border=true&theme=dracula" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api?username=G1Joshi&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
     <br />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G1Joshi&theme=dracula" width="24%" />
@@ -314,26 +313,16 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1Joshi&langs_count=10&hide_border=true&layout=compact&theme=dracula" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=G1Joshi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula" />
-    <br />
     <img src="https://github-contributor-stats.vercel.app/api?username=G1Joshi&combine_all_yearly_contributions=true&hide_contributor_rank=true&limit=10&hide_border=true&theme=dracula" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=G1Joshi&layout=compact&hide_border=true&theme=dracula" />
-    <br />
-    <img src="https://streak-stats.demolab.com/?user=G1Joshi&hide_border=true&theme=dracula" />
     <br />
     <img src="https://github-profile-trophy.vercel.app/?username=G1Joshi&theme=dracula&column=5&no-frame=true" />
     <br />
-    <img src="https://stats.hyochan.dev/api/github-stats?login=G1Joshi" />
-    <br />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula" />
-    <br />
-    <img src="https://metrics.lecoq.io/G1Joshi" />
     <br />
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
@@ -376,175 +365,143 @@
     </details>
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
     <h2>🌐 Connect With Me</h2>
     <p><i>Let's collaborate and build something amazing together!</i></p>
     <p>
-        <img src="https://img.shields.io/badge/Available-For%20Hire-success?style=for-the-badge&logo=handshake&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open%20To-Freelance%20Projects-blue?style=for-the-badge&logo=freelancer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Response%20Time-Fast-brightgreen?style=for-the-badge&logo=lightning&logoColor=white" />
+        <img src="https://img.shields.io/badge/Available-For%20Hire-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1B5E20&color=00E676" />
+        <img src="https://img.shields.io/badge/Open%20To-Freelance%20Projects-2979FF?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0D47A1&color=448AFF" />
+        <img src="https://img.shields.io/badge/Response%20Time-Fast-00BFA5?style=for-the-badge&logo=lightning&logoColor=white&labelColor=004D40&color=00BFA5" />
+    </p>
+    <p>
+        <a href="https://github.com/sponsors/G1Joshi"><img src="https://img.shields.io/badge/Sponsor-G1Joshi-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=6e1850&color=EA4AAA" /></a>
+        <a href="https://www.patreon.com/G1Joshi"><img src="https://img.shields.io/badge/Patreon-G1Joshi-FF424D?style=for-the-badge&logo=patreon&logoColor=white&labelColor=7A1A1F&color=FF424D" /></a>
+        <a href="https://www.buymeacoffee.com/G1Joshi"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=D4A800" /></a>
     </p>
 </div>
 <div align="center">
     <h4>💼 Professional Networks</h4>
-    <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/GitHub-G1Joshi-181717?style=for-the-badge&logo=github" /></a>
-    <a href="https://linkedin.com/in/G1Joshi"><img src="https://img.shields.io/badge/LinkedIn-G1Joshi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/12047894/G1Joshi"><img src="https://img.shields.io/badge/Stack_Overflow-G1Joshi-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://github.com/G1Joshi"><img src="https://img.shields.io/badge/GitHub-G1Joshi-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E&color=6E40C9" /></a>
+    <a href="https://linkedin.com/in/G1Joshi"><img src="https://img.shields.io/badge/LinkedIn-G1Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003366&color=0077B5" /></a>
+    <a href="https://stackoverflow.com/users/12047894/G1Joshi"><img src="https://img.shields.io/badge/Stack_Overflow-G1Joshi-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=8B3103&color=F48024" /></a>
     <h4>📱 Social Media</h4>
-    <a href="https://twitter.com/G1Joshii"><img src="https://img.shields.io/badge/Twitter-G1Joshii-1DA1F2?style=for-the-badge&logo=x" /></a>
-    <a href="https://reddit.com/u/G1Joshi"><img src="https://img.shields.io/badge/Reddit-G1Joshi-FF4500?style=for-the-badge&logo=reddit" /></a>
-    <a href="https://twitch.tv/G1Joshi"><img src="https://img.shields.io/badge/Twitch-G1Joshi-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+    <a href="https://twitter.com/G1Joshii"><img src="https://img.shields.io/badge/Twitter-G1Joshii-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1929&color=1DA1F2" /></a>
+    <a href="https://reddit.com/u/G1Joshi"><img src="https://img.shields.io/badge/Reddit-G1Joshi-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=7A1800&color=FF4500" /></a>
+    <a href="https://twitch.tv/G1Joshi"><img src="https://img.shields.io/badge/Twitch-G1Joshi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=3A0078&color=9146FF" /></a>
     <h4>✍️ Content Creation</h4>
-    <a href="https://medium.com/@G1Joshi"><img src="https://img.shields.io/badge/Medium-G1Joshi-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://dev.to/G1Joshi"><img src="https://img.shields.io/badge/dev.to-G1Joshi-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-    <a href="https://hashnode.com/@G1Joshi"><img src="https://img.shields.io/badge/Hashnode-G1Joshi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+    <a href="https://medium.com/@G1Joshi"><img src="https://img.shields.io/badge/Medium-G1Joshi-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0A0A&color=00AB6C" /></a>
+    <a href="https://dev.to/G1Joshi"><img src="https://img.shields.io/badge/dev.to-G1Joshi-3B49DF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A&color=3B49DF" /></a>
+    <a href="https://hashnode.com/@G1Joshi"><img src="https://img.shields.io/badge/Hashnode-G1Joshi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0D1B3E&color=2962FF" /></a>
     <h4>💬 Chat & Messaging</h4>
-    <a href="https://discordapp.com/users/G1Joshi"><img src="https://img.shields.io/badge/Discord-G1Joshi-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://t.me/G1Joshi"><img src="https://img.shields.io/badge/Telegram-G1Joshi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://discordapp.com/users/G1Joshi"><img src="https://img.shields.io/badge/Discord-G1Joshi-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1E1F4B&color=5865F2" /></a>
+    <a href="https://t.me/G1Joshi"><img src="https://img.shields.io/badge/Telegram-G1Joshi-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=003D5C&color=0088CC" /></a>
     <h4>🎨 Creative Platforms</h4>
-    <a href="https://codepen.io/G1Joshi"><img src="https://img.shields.io/badge/CodePen-G1Joshi-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+    <a href="https://codepen.io/G1Joshi"><img src="https://img.shields.io/badge/CodePen-G1Joshi-47CF73?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0D0D0D&color=47CF73" /></a>
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
     <h2>💻 Tech Stack & Tools</h2>
     <p><i>Specialized in iOS and Cross-Platform Development</i></p>
-    <br />
-    <h3>📱 Core Expertise</h3>
-    <p><i>iOS Native & Cross-Platform</i></p>
+    <p>
+        <img src="https://img.shields.io/badge/Primary-Swift%20%7C%20Flutter-E91E63?style=for-the-badge&logo=swift&logoColor=white&labelColor=880E4F" />
+        <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web-2979FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D47A1" />
+        <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM-00C853?style=for-the-badge&logo=codacy&logoColor=white&labelColor=1B5E20" />
+    </p>
+</div>
+<table align="center">
+    <tr>
+        <td align="center" width="50%">
+            <h4>📱 Core Expertise</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,flutter,dart,androidstudio&theme=dark" />
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <h4>💻 Programming Languages</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=swift,dart,kotlin,python,java,c,cpp,bash&theme=dark" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <h4>🌐 Frontend & Web</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <h4>☁️ Cloud & Backend</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,graphql,postman&theme=dark" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <h4>🗄️ Data & Storage</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,redis&theme=dark" />
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <h4>🏗️ Development Tools</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,gitlab,docker&theme=dark" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <h4>🧪 CI/CD & Testing</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=githubactions,gradle,cmake&theme=dark" />
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <h4>🎨 Design & Collaboration</h4>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=figma,xd,notion,discord,stackoverflow&theme=dark" />
+            </a>
+        </td>
+    </tr>
+</table>
+<br />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+    <h2>📌 Featured Projects</h2>
+    <p><i>Highlighted repositories showcasing my work</i></p>
 </div>
 <div align="center">
-    <h3>🛠️ iOS Frameworks & Tools</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Combine-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Core_Data-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/SwiftPackageManager-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-</div>
-<div align="center">
-    <h3>🎨 Flutter Ecosystem</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-<div align="center">
-    <h3>🎉 iOS Native Features</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/AVFoundation-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/CoreLocation-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/MapKit-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Push_Notifications-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/HealthKit-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/StoreKit-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-</div>
-<div align="center">
-    <h3>💻 Programming Languages</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</div>
-<div align="center">
-    <h3>🔌 Mobile APIs & Networking</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/URLSession-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Alamofire-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</div>
-<div align="center">
-    <h3>📦 Flutter Packages & Plugins</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/http-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/shared__preferences-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/path__provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/image__picker-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/url__launcher-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/firebase__messaging-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-<div align="center">
-    <h3>�️ Development Tools</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-<div align="center">
-    <h3>☁️ Cloud & Backend Services</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Play_Console-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fastlane-F54A2A?style=for-the-badge&logo=fastlane&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
-<div align="center">
-    <h3>🗄️ Data & Storage</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Core_Data-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hive-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/UserDefaults-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-</div>
-<div align="center">
-    <h3>🧪 Testing & Quality</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/XCTest-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/XCUITest-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mockito-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Integration_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-<div align="center">
-    <h3>🎨 Design & Collaboration</h3>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
-    <img src="https://img.shields.io/badge/SF_Symbols-F54A2A?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+    <a href="https://github.com/G1Joshi/Booking-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=Booking-App&theme=dracula&hide_border=true" />
+    </a>
+    <a href="https://github.com/G1Joshi/SwiftMCP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=SwiftMCP&theme=dracula&hide_border=true" />
+    </a>
+    <a href="https://github.com/G1Joshi/GFG-DSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=GFG-DSA&theme=dracula&hide_border=true" />
+    </a>
+    <a href="https://github.com/G1Joshi/Netflix-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=Netflix-Clone&theme=dracula&hide_border=true" />
+    </a>
+    <a href="https://github.com/G1Joshi/Advent-of-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=Advent-of-Code&theme=dracula&hide_border=true" />
+    </a>
+    <a href="https://github.com/G1Joshi/news_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=G1Joshi&repo=news_app&theme=dracula&hide_border=true" />
+    </a>
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
@@ -554,10 +511,10 @@
     <br />
     <img src="https://roadmap.sh/card/wide/66d46a95553501e3c37c0b9f" />
     <br />
-    <img src="https://holopin.io/api/user/board?user=G1Joshi" />
+    <img src="https://holopin.me/g1joshi" />
 </div>
 <br />
-<div class="divider" align="center">
+<div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <div align="center">
@@ -565,7 +522,8 @@
     <p><i>Thank you for visiting!</i></p>
     <br />
     <h3>👥 Community</h3>
-    <img src="https://custom-icon-badges.herokuapp.com/github/followers/G1Joshi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+    <img src="https://img.shields.io/badge/Member%20Since-2019-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/G1Joshi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/G1Joshi" />
     <img src="https://komarev.com/ghpvc/?username=G1Joshi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
     <br />
